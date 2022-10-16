@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(88, 87, 87);
+}
+
+#main{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+
+#text{
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    
+}
+
+p{
+    font-size: 30px; 
+    margin-top: 5px;
+}
+
